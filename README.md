@@ -20,6 +20,9 @@ UIElements
 
 *UISwipeGestureRecognizer
 
+
+![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 09-07-2021 17_40_44 (2)](https://user-images.githubusercontent.com/85922433/125077835-2ea7a680-e0df-11eb-9e75-0f30f3aae515.png)
+
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 09-07-2021 17_44_18 (2)](https://user-images.githubusercontent.com/85922433/125077365-a7f2c980-e0de-11eb-9905-1a309cacbde6.png)
 
 ![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 09-07-2021 17_44_54 (2)](https://user-images.githubusercontent.com/85922433/125077371-a88b6000-e0de-11eb-98eb-4e3cbbc62f60.png)
